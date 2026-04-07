@@ -1,2 +1,2 @@
 # Cinema
-A website for a Cinema
+A website for a Restaurant
